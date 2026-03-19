@@ -8,7 +8,7 @@ export default function UserLayout({ children }) {
         {/* TOP BAR */}
         <div className="flex justify-between items-center border-b border-gray-800 px-4 lg:px-8 py-4">
           <h1 className="text-lg font-semibold ml-12 lg:ml-0">
-            Client Portal
+            Provision Flow Portal
           </h1>
         </div>
 
