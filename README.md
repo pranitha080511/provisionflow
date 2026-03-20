@@ -1,6 +1,9 @@
 # 🌊 ProvisionFlow
 **deploy link.**:https://provisionflow.vercel.app/signup
 
+# For try:   Admin  Email:admin@gmail.com   password:admin@26
+         
+
 **Elevate Your Workflow Automation.** 🚀
 
 ProvisionFlow is a cutting-edge, full-stack workflow automation and management platform designed to streamline business processes, from complex approvals to automated notifications. Built with modern aesthetics and high performance in mind, it provides a seamless experience for both administrators and clients.
